@@ -1,3 +1,4 @@
 Este es el contenido del archivo feature
 sera el commit 7 del examen
-sera el commit 10 dele xamen
+sera el commit 10 del examen
+sera el commit 12 del examen
